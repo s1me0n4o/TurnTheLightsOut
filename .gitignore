@@ -6,3 +6,5 @@
 /Assets/Plugins
 /Assets/TextMesh Pro
 /Assets/UI
+
+*.meta
